@@ -6,3 +6,4 @@ base:
     - web-serve
   'gitlab':
     - change_gitlab
+    - web-serve
