@@ -16,3 +16,4 @@ base:
   'gitlab':
     - git
     - haproxy
+    - apache
